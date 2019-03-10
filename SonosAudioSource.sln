@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SonosAudioSource", "SonosAudioSource\SonosAudioSource.csproj", "{B23F349F-6E2C-4F80-AE40-1A0B9C5BCCDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B23F349F-6E2C-4F80-AE40-1A0B9C5BCCDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23F349F-6E2C-4F80-AE40-1A0B9C5BCCDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23F349F-6E2C-4F80-AE40-1A0B9C5BCCDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23F349F-6E2C-4F80-AE40-1A0B9C5BCCDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22EC0C47-E43D-4CB8-87F7-F4C5B1521441}
+	EndGlobalSection
+EndGlobal
